@@ -1,0 +1,127 @@
+FlowChart
+
+1. Plane selection
+    a. Plane name (Origin)
+
+    b. Plane info
+        I. VR Rotation Speed
+        II. VREF Landing Speed
+        III. VLO Landing Gear Speed
+        IV. VS Stall Speed
+        V. Max Passengers
+        VI. Max Cargo
+        VII. Max flight time estimated
+
+2. Destination selection
+    a. Estimated Flight time from Point A to Point B
+    b. Distance
+    c. Plane selected
+    d. Airport Code
+    e. Airport Name
+
+3.Ground Systems
+    a. Systems
+        I. Ground Power Unit
+        II. ACU
+        III. Pushback
+
+    b. Load
+        I. Pax
+        II. Cargo
+        III. Meals
+        IV. Fuel
+
+4. Aircraft Systems
+    a. Systems
+        I. Main battery
+        II. APU
+        III. ICE
+        IV. Seatbelts
+        V. No smoking
+
+    b. Engines
+        I. Engine 1
+        II. Engine 2
+
+    c.Lights
+        I. Cockpit lights
+        II. Nav lights
+        III. Landing lights
+        IV. Taxi lights
+        V. Cabin lights
+        VI. Beacon lights
+        VII. Strobe lights
+        VIII. Logo lights
+
+    d. Checklists
+        I. Pre flight
+            i. Parking brake(SET)
+            ii.Battery(ON)
+            iii.APU(ON)
+            iv. No smoking(ON)
+            v. Seatbelts(ON)
+            vi. Fuel Quantity(KG)
+            vii. Passenger door(CLOSED)
+            viii. Cargo door(CLOSED)
+
+        II. Engine start
+            i. Beacon lights(ON)
+            ii. Engine number 1(ON)
+            iii. Engine number 2(ON)
+            iv. APU(OFF)
+
+        III. Before taxi
+            i.Taxi lights(ON)
+            ii. Nav lights(ON)
+
+        IV. Before take-off
+            i. Strobe lights(ON)
+            ii. Take-off flaps(1 or 2)
+            iii. Cabin lights(OFF)
+            iv.Landing lights(ON)
+
+        V. After take-off
+            i. Positive rate(GEAR UP)
+            ii. 210kts(FLAPS UP)
+
+        VI. Climb-out
+            i. Cabin ligts(ON)
+
+        VII. Cruise and descent
+            i. Cabin lights(OFF)
+            ii. ICE(ON)
+            iii. Landing lights(ON)
+            
+        VIII. Approach
+            i. Spoilers(ARMED)
+            ii.Landing Flaps(3 or FULL)
+            
+        IX. Landing
+            i. Brakes(2)
+            ii. Landing gear(DOWN)
+
+        X. After landing
+            i. Flaps(RETRACT)
+            ii. Spoilers(DOWN)
+            iii. Strobe lights(OFF)
+            iv. ICE(OFF)
+            v. Landing lights(OFF)
+            vi.Taxi lights(ON)
+            vii. APU(ON)
+
+        XI. Parking
+            i. Parking breaks(SET)
+            ii. APU(OFF)
+            iii. Engine number 1(OFF)
+            iv. Engine number 2(OFF)
+            v. Nav lights(OFF)
+            vi. Beacon lights(OFF)
+            vii. Battery(OFF)
+            
+5. Flaps (0, 1, 2, 3, FU)
+
+6. Gear
+
+7.Spoilers (Auto, 0, 1, 2, 3)
+
+8. Parking (P, 1, 2, 3, M)
